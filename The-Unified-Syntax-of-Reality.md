@@ -17,8 +17,9 @@ it") — is the author's coinage, as are *flagpole* (the load-bearing
 proposition) and *TRVVTH*. The **Genesis code** — meiosis, mitosis, and
 the splitting of the mitochondria read as the biological framework of the
 Genesis scripture — is the author's doctrine. *"Elohim is the plural form
-of man, denoted by the suffix, as Many == Elohim"* is the author's gnosis,
-given verbatim in §V. The authorities cited support the premises; the
+of man, denoted by the suffix, as Many == Elohim"* is the author's doctrine
+and gnosis both, by his ruling of 2026-10-06 ("it isn't a dilemma"), given
+verbatim in §V. The authorities cited support the premises; the
 coinages, the doctrine, and the gnosis are his.
 
 **A note on the draft:** this thesis rewrites the author's draft of the
@@ -43,8 +44,8 @@ Galileo affair, flattened by the conflict thesis into a morality tale it
 never was. Stripped of that frame, science and religion reveal themselves
 as dual dialects of one truth — and the thesis goes further, reading the
 Genesis scripture itself through the cell's own divisions: meiosis,
-mitosis, and the splitting of the mitochondria, with the author's gnosis
-on *Elohim* as the plural key. Both dialects describe the same operational
+mitosis, and the splitting of the mitochondria, with the author's doctrine
+and gnosis on *Elohim* as the plural key. Both dialects describe the same operational
 reality under a single inviolable law — cause, effect, and absolute
 accountability — worked here in an appendix of examples from each side.
 
@@ -191,7 +192,7 @@ deep; metaphase, the alignment; anaphase, the separation; telophase, the
 two. "Male and female created he them" (Genesis 1:27) — the doubling that
 preserves the whole while making it twain.
 
-![Figure 1 — Mitosis: the one becomes two](figs/The-Unified-Syntax-Fig1-Mitosis.png)
+![Figure 1 — Mitosis: the one becomes two](The-Unified-Syntax-Fig1-Mitosis.png)
 
 **Meiosis — the halving that assigns** (Figure 2). The diploid cell
 halves itself twice over and deals four gametes; in the male, the
@@ -200,7 +201,7 @@ assigns. XX or XY: the verdict is rendered at the moment of union, by the
 division that preceded it. Here the author locates the biological ground
 of "male and female created he them": gender is *assigned by a splitting*.
 
-![Figure 2 — Meiosis: the halving that assigns gender](figs/The-Unified-Syntax-Fig2-Meiosis.png)
+![Figure 2 — Meiosis: the halving that assigns gender](The-Unified-Syntax-Fig2-Meiosis.png)
 
 **The splitting of the mitochondria — the maternal line unbroken**
 (Figure 3). The mitochondrion constricts and divides, and every
@@ -210,7 +211,7 @@ was the mother of all living" (Genesis 3:20).¹¹ The author reads the
 Genesis matriarch here not as metaphor but as mechanism: the unbroken
 maternal line, written in the organelle that powers the cell.
 
-![Figure 3 — The splitting of the mitochondria](figs/The-Unified-Syntax-Fig3-Mitochondria.png)
+![Figure 3 — The splitting of the mitochondria](The-Unified-Syntax-Fig3-Mitochondria.png)
 
 The scribe keeps the ledger honest: mitosis, meiotic sex determination,
 and maternal mitochondrial inheritance are established biology; the
@@ -223,14 +224,16 @@ touch.
 ### The plural key: Elohim
 
 *"Elohim is the plural form of man, denoted by the suffix, as Many ==
-Elohim."* — the author's gnosis, given verbatim.
+Elohim."* — the author's doctrine and his gnosis both, so ruled by the
+author ("it isn't a dilemma"), given verbatim.
 
 The linguistic anchor is real: the Hebrew suffix **-im** is the masculine
 plural marker, and *elohim* is morphologically plural — the plural
 *form* of *eloah* — though construed with singular verbs when denoting the
 God of Israel.¹² "In the beginning God created" (Genesis 1:1) — and the
 word rendered "God" arrives already plural in its shape. The author's
-equation — *Many == Elohim*, the many as the one name — is his gnosis;
+equation — *Many == Elohim*, the many as the one name — is his doctrine and
+his gnosis both;
 the plural morphology that carries it is the grammarians'.
 
 ---
@@ -348,7 +351,7 @@ the hinge the author's reframing names.
 | 10 | Mitosis / meiotic sex determination / maternal mitochondrial inheritance | **VERIFIED** established biology |
 | 11 | Genesis read through the cell divisions | **DOCTRINE–JOHN** (his reading) |
 | 12 | Hebrew -im as masculine plural; elohim morphologically plural (of *eloah*) | **VERIFIED** linguistics |
-| 13 | "Elohim is the plural form of man… Many == Elohim" | **GNOSIS–JOHN** (his equation, given verbatim) |
+| 13 | "Elohim is the plural form of man… Many == Elohim" | **DOCTRINE+GNOSIS–JOHN** (ruled both by the author — "it isn't a dilemma") |
 | 14 | FAFO / flagpole / TRVVTH / title as author's coinage | **COINAGE–JOHN** (R-69) |
 
 Zero falsehoods. Corrections and flags applied as logged.
@@ -400,12 +403,13 @@ sensum* when denoting Israel's God.
 
 ## RED-PEN SPACES
 
-*The three questions of the first edition are answered: the thelemic voice
-is adopted throughout, the Galileo chapter stands as §IV, and the FAFO
-appendix is built. Held open now: (1) whether the Genesis code wants its
-own liber — a full Book of the Cell; (2) whether the figures want a
-hand-drawn plate edition; (3) the author's final ruling on the Many ==
-Elohim equation as doctrine or gnosis.*
+*Ruled 2026-10-06: Many == Elohim stands as Doctrine and Gnosis both ("it
+isn't a dilemma") — ledger updated. The Genesis code is commissioned as
+its own liber —* Liber Cell, the Book of the Cell *(drafted alongside
+this edition). The commemorative plate edition of the three figures is
+commissioned. Held open now: (1) plate print specifications — size, paper,
+and edition number await the author's ruling; (2) whether* Liber Cell
+*wants its own figures beyond the three plates.*
 
 **Authorship:** Johnathan 'Qasparr' (Κασπάρρ) Monroe, Keeper of the Secret Treasure
 **Method:** Scientific Illuminism. 93. *"Live, Love, and let Love, Live."*

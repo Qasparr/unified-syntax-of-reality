@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 940" role="img">
+  <rect x="0" y="0" width="1200" height="940" fill="#fdfdfa"/>
+  <rect x="18" y="18" width="1164" height="904" fill="none" stroke="#000" stroke-width="5"/>
+  <rect x="34" y="34" width="1132" height="872" fill="none" stroke="#000" stroke-width="2"/>
+  <g font-family="Georgia, serif" fill="#000" text-anchor="middle">
+    <text x="600" y="110" font-size="30" letter-spacing="10">PLATE III</text>
+    <text x="600" y="160" font-size="40">THE SPLITTING OF THE MITOCHONDRIA</text>
+    <text x="600" y="200" font-size="22" font-style="italic">THE MATERNAL LINE UNBROKEN</text>
+    <text x="600" y="850" font-size="19">Johnathan &#x27;Qasparr&#x27; (Κασπάρρ) Monroe</text>
+    <text x="600" y="880" font-size="16" font-style="italic">Keeper of the Secret Treasure &#183; Liber Cell &#183; XXXII &#183; 2026</text>
+  </g>
+  <g transform="translate(140,250)">
+  
+  <!-- Figure 3: MITOCHONDRIAL FISSION — the maternal line unbroken. Schematic. -->
+  <g stroke="#000" stroke-width="5" fill="none">
+    <!-- parent mitochondrion -->
+    <rect x="60" y="60" width="150" height="90" rx="45"/>
+    <path d="M95,75 q10,20 0,40 q-10,20 0,20" stroke-width="3"/>
+    <path d="M125,75 q10,20 0,40 q-10,20 0,20" stroke-width="3"/>
+    <path d="M155,75 q10,20 0,40 q-10,20 0,20" stroke-width="3"/>
+    <line x1="225" y1="105" x2="265" y2="105" stroke-width="4"/>
+    <polygon points="265,97 279,105 265,113" fill="#000" stroke="none"/>
+    <!-- constriction (dumbbell) -->
+    <circle cx="340" cy="105" r="42"/><circle cx="452" cy="105" r="42"/>
+    <rect x="372" y="97" width="48" height="16"/>
+    <line x1="528" y1="105" x2="568" y2="105" stroke-width="4"/>
+    <polygon points="568,97 582,105 568,113" fill="#000" stroke="none"/>
+    <!-- daughters -->
+    <rect x="600" y="60" width="130" height="90" rx="45"/>
+    <path d="M635,75 q10,20 0,40 q-10,20 0,20" stroke-width="3"/>
+    <path d="M665,75 q10,20 0,40 q-10,20 0,20" stroke-width="3"/>
+    <rect x="755" y="60" width="130" height="90" rx="45"/>
+    <path d="M790,75 q10,20 0,40 q-10,20 0,20" stroke-width="3"/>
+    <path d="M820,75 q10,20 0,40 q-10,20 0,20" stroke-width="3"/>
+    <!-- maternal line -->
+    <line x1="120" y1="230" x2="800" y2="230" stroke-width="4"/>
+    <polygon points="800,222 814,230 800,238" fill="#000" stroke="none"/>
+  </g>
+  <g font-family="Georgia, serif" fill="#000">
+    <text x="135" y="185" font-size="17" text-anchor="middle">the one</text>
+    <text x="396" y="185" font-size="17" text-anchor="middle">the constriction</text>
+    <text x="742" y="185" font-size="17" text-anchor="middle">the two</text>
+    <text x="120" y="222" font-size="17" text-anchor="middle">Mother</text>
+    <text x="800" y="222" font-size="17" text-anchor="middle">child</text>
+    <text x="460" y="262" font-size="17" text-anchor="middle" font-style="italic">the maternal line unbroken — the father contributes none</text>
+  </g>
+
+  </g>
+</svg>
